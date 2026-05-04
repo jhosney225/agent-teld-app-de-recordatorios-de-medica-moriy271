@@ -1,0 +1,6 @@
+{
+  "name": "agent-teld-app-de-recordatorios-de-medica-moriy271",
+  "version": "1.0.0",
+  "description": "Proyecto de Teld [Gen6]: app de recordatorios de medicamentos con alertas",
+  "main": "index.js"
+}
